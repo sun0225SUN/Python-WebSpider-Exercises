@@ -16,27 +16,23 @@
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111061255548.png)
 
-<center>我们需要将数据采集下来，存放在一张 excel 表里</center>
+&emsp;&emsp;我们需要将数据采集下来，存放在一张 excel 表里
 
-
-
-<center>像这样！</center>
+&emsp;&emsp;像这样！
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111062302411.jpg)
 
-<center>然后对其进行可视化分析</center>
+&emsp;&emsp;然后对其进行可视化分析
 
-
-
-<center>像这样</center>
+&emsp;&emsp;像这样
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111061311152.png)
 
-<center> 这样</center>
+&emsp;&emsp;这样
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111061310335.png)
 
-<center>.......</center>
+&emsp;&emsp;.......
 
 &emsp;&emsp;试想一下，我们该怎么做？
 
